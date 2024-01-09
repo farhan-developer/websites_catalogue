@@ -1,0 +1,32 @@
+.wc-website-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#wc-website-form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#wc-website-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+#wc_website_submit {
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+#wc_website_submit:hover {
+    background-color: #45a049;
+}
+
+.wc_message_success  {
+    color: green;
+}
+.wc_message_error  {
+    color: red;
+}
