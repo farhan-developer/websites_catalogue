@@ -6,7 +6,7 @@ In the Front End
 
 
 And in the Back End:
-1) Removed the ability to create new WEBSITES
+1) Removed the ability to create new WEBSITES.
 2) In the edit screen for a WEBSITE removed all the standard metaboxes (even thepublish one; As the WEBSITES post can not be edited by any way)
 3) Added a metabox with a textarea containing the source code of the website at the URL the user provided.
 4) Using the new JSON API, allowed to query WEBSITES usinf REST API.
